@@ -41,3 +41,9 @@ Follow the installation instructions provided in the Mahout documentation.
 
 Use Maven for dependency management. Make sure you have Maven installed.
 Run the following command in the project.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/b87632ea-de40-4ac3-b760-c5a2ec1b89f6)
+
+![Image](https://github.com/user-attachments/assets/5e7c2e90-ff53-4b1a-9d2a-c0556c2f5af2)
